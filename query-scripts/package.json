@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "dependencies": {
         "infusion": "3.0.0-dev.20191107T164711Z.332e92c33.FLUID-6148",
-        "axios": "0.19.2",
+        "axios": "1.6.0",
         "minimist": "1.2.5"
     }
 }
